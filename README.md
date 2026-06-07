@@ -9,7 +9,7 @@ This is a responsive Personal Portfolio Website developed using HTML and CSS. Th
 
 This project was developed as part of the Synent Technologies Web Development Internship Program.
 
-## Features
+## Features:
 
 * Responsive single-page portfolio website
 * Professional header section
